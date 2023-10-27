@@ -6,7 +6,7 @@ http://localhost:3000/ (next.js)
 <br> https://e230601.ksecole.kr/ (react.js)
 
 ## 결과 이미지
-![next.js](https://github.com/yeong02/ecole/assets/70323506/d44a5558-f2e3-4ca5-8177-54bf3c922e09)
+![next.js](https://github.com/yeong02/ecole/assets/70323506/cdf6c821-255f-40ef-ac1d-3cc8e40ae987)
 ![react.js]
 
 ## 느낀점
