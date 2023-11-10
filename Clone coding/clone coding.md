@@ -2,7 +2,10 @@
 
 
 ## 진행도
-![진행도](https://github.com/yeong02/ecole/assets/70323506/d44a5558-f2e3-4ca5-8177-54bf3c922e09)
+![진행도](https://github.com/yeong02/ecole/assets/70323506/3ba65994-3ee9-4b1a-b71e-e3e29f66fb07)
+
+## 배운 것
+![배운 것]
 
 ## 느낀점
 
